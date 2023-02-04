@@ -36,10 +36,10 @@
             this.lblScore = new System.Windows.Forms.Label();
             this.lblStatus = new System.Windows.Forms.Label();
             this.btnCRock = new System.Windows.Forms.Button();
-            this.btnCPaper = new System.Windows.Forms.Button();
             this.btnCScissors = new System.Windows.Forms.Button();
             this.btnScissors = new System.Windows.Forms.Button();
             this.btnPaper = new System.Windows.Forms.Button();
+            this.btnCPaper = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
             // btnRock
@@ -109,19 +109,6 @@
             this.btnCRock.Text = "Rock";
             this.btnCRock.UseVisualStyleBackColor = false;
             // 
-            // btnCPaper
-            // 
-            this.btnCPaper.BackColor = System.Drawing.Color.White;
-            this.btnCPaper.Enabled = false;
-            this.btnCPaper.Font = new System.Drawing.Font("Microsoft Sans Serif", 25.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
-            this.btnCPaper.Location = new System.Drawing.Point(144, 98);
-            this.btnCPaper.Name = "btnCPaper";
-            this.btnCPaper.Size = new System.Drawing.Size(200, 65);
-            this.btnCPaper.TabIndex = 4;
-            this.btnCPaper.Text = "Paper";
-            this.btnCPaper.UseVisualStyleBackColor = false;
-            this.btnCPaper.Click += new System.EventHandler(this.btnCPaper_Click);
-            // 
             // btnCScissors
             // 
             this.btnCScissors.BackColor = System.Drawing.Color.White;
@@ -156,17 +143,29 @@
             this.btnPaper.UseVisualStyleBackColor = true;
             this.btnPaper.Click += new System.EventHandler(this.btnPaper_Click);
             // 
+            // btnCPaper
+            // 
+            this.btnCPaper.BackColor = System.Drawing.Color.White;
+            this.btnCPaper.Enabled = false;
+            this.btnCPaper.Font = new System.Drawing.Font("Microsoft Sans Serif", 25.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
+            this.btnCPaper.Location = new System.Drawing.Point(144, 98);
+            this.btnCPaper.Name = "btnCPaper";
+            this.btnCPaper.Size = new System.Drawing.Size(200, 65);
+            this.btnCPaper.TabIndex = 10;
+            this.btnCPaper.Text = "Paper";
+            this.btnCPaper.UseVisualStyleBackColor = false;
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(625, 561);
+            this.Controls.Add(this.btnCPaper);
             this.Controls.Add(this.btnRestart);
             this.Controls.Add(this.lblCScore);
             this.Controls.Add(this.lblScore);
             this.Controls.Add(this.lblStatus);
             this.Controls.Add(this.btnCScissors);
-            this.Controls.Add(this.btnCPaper);
             this.Controls.Add(this.btnCRock);
             this.Controls.Add(this.btnScissors);
             this.Controls.Add(this.btnPaper);
@@ -188,10 +187,10 @@
         private System.Windows.Forms.Label lblScore;
         private System.Windows.Forms.Label lblStatus;
         private System.Windows.Forms.Button btnCRock;
-        private System.Windows.Forms.Button btnCPaper;
         private System.Windows.Forms.Button btnCScissors;
         private System.Windows.Forms.Button btnScissors;
         private System.Windows.Forms.Button btnPaper;
+        private System.Windows.Forms.Button btnCPaper;
     }
 }
 

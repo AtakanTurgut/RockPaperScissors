@@ -157,10 +157,5 @@ namespace TasKagıtMakas
                 btnScissors.Enabled = false;
             }
         }
-
-        private void btnCPaper_Click(object sender, EventArgs e)
-        {
-
-        }
     }
 }
