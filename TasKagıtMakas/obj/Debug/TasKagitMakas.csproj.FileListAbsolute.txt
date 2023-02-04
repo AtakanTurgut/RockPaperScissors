@@ -1,0 +1,11 @@
+C:\Users\Excalibur\Desktop\TasKagıtMakas\TasKagıtMakas\bin\Debug\TasKagıtMakas.exe.config
+C:\Users\Excalibur\Desktop\TasKagıtMakas\TasKagıtMakas\bin\Debug\TasKagıtMakas.exe
+C:\Users\Excalibur\Desktop\TasKagıtMakas\TasKagıtMakas\bin\Debug\TasKagıtMakas.pdb
+C:\Users\Excalibur\Desktop\TasKagıtMakas\TasKagıtMakas\obj\Debug\TasKagitMakas.csproj.AssemblyReference.cache
+C:\Users\Excalibur\Desktop\TasKagıtMakas\TasKagıtMakas\obj\Debug\TasKagitMakas.csproj.SuggestedBindingRedirects.cache
+C:\Users\Excalibur\Desktop\TasKagıtMakas\TasKagıtMakas\obj\Debug\TasKagıtMakas.Form1.resources
+C:\Users\Excalibur\Desktop\TasKagıtMakas\TasKagıtMakas\obj\Debug\TasKagıtMakas.Properties.Resources.resources
+C:\Users\Excalibur\Desktop\TasKagıtMakas\TasKagıtMakas\obj\Debug\TasKagitMakas.csproj.GenerateResource.cache
+C:\Users\Excalibur\Desktop\TasKagıtMakas\TasKagıtMakas\obj\Debug\TasKagitMakas.csproj.CoreCompileInputs.cache
+C:\Users\Excalibur\Desktop\TasKagıtMakas\TasKagıtMakas\obj\Debug\TasKagıtMakas.exe
+C:\Users\Excalibur\Desktop\TasKagıtMakas\TasKagıtMakas\obj\Debug\TasKagıtMakas.pdb
